@@ -7,8 +7,9 @@ https://templatemo.com/tm-526-vanilla
 */
 
 p {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 25px;
+  color: white;
 }
 
 section {
@@ -375,6 +376,7 @@ section {
   background-color: rgba(0, 0, 0, 0.5);
   padding: 30px 25px;
   margin-bottom: 30px;
+  color: white;
 }
 
 #contact input {
