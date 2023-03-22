@@ -344,6 +344,7 @@ section {
 }
 
 .tabs a {
+  background-color: rgba(255, 24, 112, 0.75);
   display:block;
   text-align:center;
   text-decoration:none;
@@ -510,7 +511,7 @@ footer em {
   }
 
   .baner-content h1 {
-    font-size: 50px;
+    font-size: 45px;
   }
 
   .baner-content em {
@@ -541,7 +542,7 @@ footer em {
   }
 
   .service-content .service-item {
-    background-color: rgba(0, 0, 0, 0.75);
+    background-color: rgba(255, 255, 0, 0.75);
     padding: 25px 30px;
     text-align: center;
     color: #3c2515;
