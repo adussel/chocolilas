@@ -22,9 +22,13 @@ body {
   font-size: 14px;
 }
 
-a { color: #3CC; }
+a { 
+  color: #3AA; 
+  text-decoration: underline;
 
-a:hover { color: #FF0; }
+}
+
+a:hover { color: #3CC; }
 
 /*----------
   NAV
@@ -393,6 +397,11 @@ section {
   padding: 30px 25px;
   margin-bottom: 30px;
   color: white;
+}
+
+.contact-form a {
+  color: white;
+  text-decoration: underline;
 }
 
 #contact input {
