@@ -295,6 +295,13 @@ h4, .h4 {
   color: #3c2515;
 }
 
+.text-stock a {
+  font-style: normal;
+  font-size: 17px;
+  font-weight: 700;
+  color: #3c2515 !important;
+}
+
 .owl-pagination {
   margin-top: 40px;
   opacity: 1;
